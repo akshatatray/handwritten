@@ -1,0 +1,970 @@
+{
+ "id": "maths-v1",
+ "set_index": 0,
+ "title": "maths symbols",
+ "source": "Symbols, scripts and layouts collected from a university linear algebra course's lecture notes (51 pages), plus a few general symbols used in homework (∃, ∖, ∘).",
+ "instructions": [
+  "Write each thing once in its box, the way you write maths in your notes. Blue or black pen.",
+  "Sit letters on the faint dotted line. Stay inside the box; leave a box empty if unsure.",
+  "√ boxes: draw the root round the dotted box with the bar just above it. Don't write inside.",
+  "Print at 100 % (actual size). Photograph each page flat with all four corner squares in view."
+ ],
+ "footer": "Write at your normal size and speed, not neater than usual: the small differences between boxes are what make it look like you.",
+ "sections": [
+  {
+   "kind": "glyph",
+   "title": "Sets, logic and relations",
+   "items": [
+    {
+     "text": "∈",
+     "n": 7
+    },
+    {
+     "text": "∉",
+     "n": 3
+    },
+    {
+     "text": "⊂",
+     "n": 4
+    },
+    {
+     "text": "⊆",
+     "n": 4
+    },
+    {
+     "text": "∩",
+     "n": 3
+    },
+    {
+     "text": "∪",
+     "n": 3
+    },
+    {
+     "text": "⊕",
+     "n": 5
+    },
+    {
+     "text": "⊥",
+     "n": 5
+    },
+    {
+     "text": "∖",
+     "n": 2
+    },
+    {
+     "text": "∅",
+     "n": 2
+    },
+    {
+     "text": "∀",
+     "n": 3
+    },
+    {
+     "text": "∃",
+     "n": 2
+    },
+    {
+     "text": "≠",
+     "n": 4
+    },
+    {
+     "text": "≈",
+     "n": 2
+    },
+    {
+     "text": "≤",
+     "n": 5
+    },
+    {
+     "text": "≥",
+     "n": 5
+    },
+    {
+     "text": "<",
+     "n": 3
+    },
+    {
+     "text": ">",
+     "n": 2
+    },
+    {
+     "text": "≫",
+     "n": 2
+    },
+    {
+     "text": "⪰",
+     "n": 3
+    },
+    {
+     "text": "≻",
+     "n": 3
+    },
+    {
+     "text": "∘",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "kind": "glyph",
+   "title": "Arrows",
+   "note": "short and long ones are different symbols",
+   "items": [
+    {
+     "text": "→",
+     "n": 5
+    },
+    {
+     "text": "←",
+     "n": 3
+    },
+    {
+     "text": "↦",
+     "n": 3
+    },
+    {
+     "text": "⇒",
+     "n": 3
+    },
+    {
+     "text": "⟶",
+     "n": 2,
+     "wide": true
+    },
+    {
+     "text": "⟼",
+     "n": 2,
+     "wide": true
+    },
+    {
+     "text": "⟹",
+     "n": 3,
+     "wide": true
+    },
+    {
+     "text": "⟺",
+     "n": 5,
+     "wide": true
+    }
+   ]
+  },
+  {
+   "kind": "glyph",
+   "title": "Operations, bars and dots",
+   "items": [
+    {
+     "text": "×",
+     "n": 5
+    },
+    {
+     "text": "±",
+     "n": 3
+    },
+    {
+     "text": "·",
+     "n": 3
+    },
+    {
+     "text": "∗",
+     "n": 3
+    },
+    {
+     "text": "†",
+     "n": 3
+    },
+    {
+     "text": "∞",
+     "n": 4
+    },
+    {
+     "text": "′",
+     "n": 4
+    },
+    {
+     "text": "|",
+     "n": 6
+    },
+    {
+     "text": "‖",
+     "n": 6
+    },
+    {
+     "text": "⟨",
+     "n": 5
+    },
+    {
+     "text": "⟩",
+     "n": 5
+    },
+    {
+     "text": "⋯",
+     "n": 4
+    },
+    {
+     "text": "⋮",
+     "n": 4
+    },
+    {
+     "text": "∫",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "kind": "glyph",
+   "title": "Greek letters",
+   "items": [
+    {
+     "text": "α",
+     "n": 7
+    },
+    {
+     "text": "β",
+     "n": 5
+    },
+    {
+     "text": "λ",
+     "n": 7
+    },
+    {
+     "text": "σ",
+     "n": 5
+    },
+    {
+     "text": "μ",
+     "n": 4
+    },
+    {
+     "text": "θ",
+     "n": 4
+    },
+    {
+     "text": "ρ",
+     "n": 3
+    },
+    {
+     "text": "δ",
+     "n": 3
+    },
+    {
+     "text": "ε",
+     "n": 2
+    },
+    {
+     "text": "γ",
+     "n": 2
+    },
+    {
+     "text": "π",
+     "n": 2
+    },
+    {
+     "text": "φ",
+     "n": 2
+    },
+    {
+     "text": "τ",
+     "n": 2
+    },
+    {
+     "text": "ω",
+     "n": 2
+    },
+    {
+     "text": "ψ",
+     "n": 2
+    },
+    {
+     "text": "η",
+     "n": 2
+    },
+    {
+     "text": "Σ",
+     "n": 5
+    },
+    {
+     "text": "Λ",
+     "n": 4
+    },
+    {
+     "text": "Δ",
+     "n": 2
+    },
+    {
+     "text": "Φ",
+     "n": 2
+    },
+    {
+     "text": "Ω",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "kind": "glyph",
+   "title": "Number sets and curly letters",
+   "note": "write them the way you write them in your notes",
+   "items": [
+    {
+     "text": "ℝ",
+     "n": 5
+    },
+    {
+     "text": "ℂ",
+     "n": 4
+    },
+    {
+     "text": "𝔽",
+     "n": 5
+    },
+    {
+     "text": "𝕊",
+     "n": 2
+    },
+    {
+     "text": "𝔼",
+     "n": 2
+    },
+    {
+     "text": "ℕ",
+     "n": 2
+    },
+    {
+     "text": "ℤ",
+     "n": 2
+    },
+    {
+     "text": "ℬ",
+     "n": 5
+    },
+    {
+     "text": "𝒩",
+     "n": 5
+    },
+    {
+     "text": "ℛ",
+     "n": 5
+    },
+    {
+     "text": "𝒞",
+     "n": 3
+    },
+    {
+     "text": "ℰ",
+     "n": 3
+    },
+    {
+     "text": "𝒫",
+     "n": 3
+    },
+    {
+     "text": "𝒮",
+     "n": 3
+    },
+    {
+     "text": "ℒ",
+     "n": 2
+    },
+    {
+     "text": "ℓ",
+     "n": 4
+    }
+   ]
+  },
+  {
+   "kind": "script",
+   "title": "Powers",
+   "note": "the small raised part at the size you really write it",
+   "items": [
+    {
+     "base": "A",
+     "sup": "T",
+     "n": 4
+    },
+    {
+     "base": "x",
+     "sup": "H",
+     "n": 3
+    },
+    {
+     "base": "A",
+     "sup": "−1",
+     "n": 3
+    },
+    {
+     "base": "T",
+     "sup": "∗",
+     "n": 2
+    },
+    {
+     "base": "x",
+     "sup": "†",
+     "n": 2
+    },
+    {
+     "base": "U",
+     "sup": "⊥",
+     "n": 3
+    },
+    {
+     "base": "x",
+     "sup": "2",
+     "n": 3
+    },
+    {
+     "base": "t",
+     "sup": "3",
+     "n": 2
+    },
+    {
+     "base": "𝔽",
+     "sup": "n",
+     "n": 2
+    },
+    {
+     "base": "ℝ",
+     "sup": "m",
+     "n": 2
+    },
+    {
+     "base": "ℝ",
+     "sup": "m×n",
+     "n": 3
+    },
+    {
+     "base": "A",
+     "sup": "k",
+     "n": 2
+    },
+    {
+     "base": "x",
+     "sup": "1/2",
+     "n": 3
+    },
+    {
+     "base": "M",
+     "sup": "n−1",
+     "n": 2
+    },
+    {
+     "base": "C",
+     "sup": "∞",
+     "n": 1
+    },
+    {
+     "base": "(AB)",
+     "sup": "T",
+     "n": 2
+    },
+    {
+     "base": "ℛ(T)",
+     "sup": "⊥",
+     "n": 2
+    },
+    {
+     "base": "f",
+     "sup": "′",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "kind": "script",
+   "title": "Indices",
+   "note": "the small lowered part at the size you really write it",
+   "items": [
+    {
+     "base": "x",
+     "sub": "i",
+     "n": 3
+    },
+    {
+     "base": "x",
+     "sub": "1",
+     "n": 3
+    },
+    {
+     "base": "x",
+     "sub": "2",
+     "n": 2
+    },
+    {
+     "base": "x",
+     "sub": "n",
+     "n": 3
+    },
+    {
+     "base": "A",
+     "sub": "ij",
+     "n": 3
+    },
+    {
+     "base": "a",
+     "sub": "1n",
+     "n": 2
+    },
+    {
+     "base": "x",
+     "sub": "k+1",
+     "n": 2
+    },
+    {
+     "base": "F",
+     "sub": "k−1",
+     "n": 2
+    },
+    {
+     "base": "U",
+     "sub": "r",
+     "n": 2
+    },
+    {
+     "base": "P",
+     "sub": "S",
+     "n": 2
+    },
+    {
+     "base": "I",
+     "sub": "n",
+     "n": 2
+    },
+    {
+     "base": "λ",
+     "sub": "i",
+     "n": 2
+    },
+    {
+     "base": "[x]",
+     "sub": "ℬ",
+     "n": 3
+    },
+    {
+     "base": "‖x‖",
+     "sub": "2",
+     "n": 3
+    },
+    {
+     "base": "‖A‖",
+     "sub": "F",
+     "n": 2
+    },
+    {
+     "base": "‖x‖",
+     "sub": "∞",
+     "n": 2
+    },
+    {
+     "base": "proj",
+     "sub": "S",
+     "n": 2
+    },
+    {
+     "base": "[T]",
+     "sub": "𝒞←ℬ",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "kind": "script",
+   "title": "Both on one letter",
+   "items": [
+    {
+     "base": "u",
+     "sub": "i",
+     "sup": "T",
+     "n": 3
+    },
+    {
+     "base": "q",
+     "sub": "i",
+     "sup": "H",
+     "n": 2
+    },
+    {
+     "base": "σ",
+     "sub": "i",
+     "sup": "2",
+     "n": 3
+    },
+    {
+     "base": "Σ",
+     "sub": "r",
+     "sup": "−1",
+     "n": 2
+    },
+    {
+     "base": "λ",
+     "sub": "n",
+     "sup": "k",
+     "n": 2
+    },
+    {
+     "base": "‖Ax‖",
+     "sub": "2",
+     "sup": "2",
+     "n": 2
+    },
+    {
+     "base": "b",
+     "sub": "n",
+     "sup": "′",
+     "n": 1
+    }
+   ]
+  },
+  {
+   "kind": "radical",
+   "title": "Square roots",
+   "note": "the dotted box is the part under the root",
+   "items": [
+    {
+     "width_mm": 3,
+     "n": 2
+    },
+    {
+     "width_mm": 4.5,
+     "n": 2
+    },
+    {
+     "width_mm": 7,
+     "n": 2
+    },
+    {
+     "width_mm": 11,
+     "n": 2
+    },
+    {
+     "width_mm": 16,
+     "n": 2
+    },
+    {
+     "width_mm": 23,
+     "n": 2
+    }
+   ]
+  },
+  {
+   "kind": "tall",
+   "title": "Tall brackets and braces",
+   "note": "as tall as the rows of a matrix or column vector",
+   "items": [
+    {
+     "text": "(",
+     "rows": 2,
+     "n": 2
+    },
+    {
+     "text": ")",
+     "rows": 2,
+     "n": 2
+    },
+    {
+     "text": "(",
+     "rows": 3,
+     "n": 2
+    },
+    {
+     "text": ")",
+     "rows": 3,
+     "n": 2
+    },
+    {
+     "text": "(",
+     "rows": 4,
+     "n": 2
+    },
+    {
+     "text": ")",
+     "rows": 4,
+     "n": 2
+    },
+    {
+     "text": "{",
+     "rows": 2,
+     "n": 2
+    },
+    {
+     "text": "}",
+     "rows": 2
+    },
+    {
+     "text": "{",
+     "rows": 3
+    },
+    {
+     "text": "}",
+     "rows": 3
+    },
+    {
+     "text": "[",
+     "rows": 2
+    },
+    {
+     "text": "]",
+     "rows": 2
+    },
+    {
+     "text": "[",
+     "rows": 3
+    },
+    {
+     "text": "]",
+     "rows": 3
+    },
+    {
+     "text": "|",
+     "rows": 2,
+     "n": 2
+    }
+   ]
+  },
+  {
+   "kind": "fraction",
+   "title": "Stacked fractions",
+   "items": [
+    {
+     "num": "1",
+     "den": "2"
+    },
+    {
+     "num": "1",
+     "den": "√2"
+    },
+    {
+     "num": "α_i",
+     "den": "α_j"
+    },
+    {
+     "num": "n(n−1)",
+     "den": "2"
+    },
+    {
+     "num": "v_1",
+     "den": "‖v_1‖"
+    },
+    {
+     "num": "⟨x,y⟩",
+     "den": "‖x‖‖y‖"
+    },
+    {
+     "num": "x^HAx",
+     "den": "x^Hx"
+    },
+    {
+     "num": "u_i^Tb",
+     "den": "σ_i"
+    }
+   ]
+  },
+  {
+   "kind": "bigop",
+   "title": "Sums and max/min with limits",
+   "items": [
+    {
+     "op": "Σ",
+     "lower": "j=1",
+     "upper": "n",
+     "n": 3
+    },
+    {
+     "op": "Σ",
+     "lower": "k=1",
+     "upper": "∞"
+    },
+    {
+     "op": "Σ",
+     "lower": "i=k+1",
+     "upper": "r"
+    },
+    {
+     "op": "Σ",
+     "lower": "i≠j"
+    },
+    {
+     "op": "max",
+     "lower": "‖x‖=1"
+    },
+    {
+     "op": "min",
+     "lower": "z∈S"
+    },
+    {
+     "op": "max",
+     "lower": "1≤i≤n"
+    }
+   ]
+  },
+  {
+   "kind": "accent",
+   "title": "Bars and hats",
+   "items": [
+    {
+     "base": "x",
+     "accent": "̄",
+     "n": 3
+    },
+    {
+     "base": "α",
+     "accent": "̄",
+     "n": 2
+    },
+    {
+     "base": "x",
+     "accent": "̂",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "kind": "word",
+   "title": "Operator names, abbreviations and headings",
+   "items": [
+    {
+     "text": "span",
+     "n": 2
+    },
+    {
+     "text": "dim",
+     "n": 2
+    },
+    {
+     "text": "rank",
+     "n": 2
+    },
+    {
+     "text": "col",
+     "n": 2
+    },
+    {
+     "text": "nullity",
+     "n": 2
+    },
+    {
+     "text": "det",
+     "n": 2
+    },
+    {
+     "text": "diag",
+     "n": 2
+    },
+    {
+     "text": "proj",
+     "n": 2
+    },
+    {
+     "text": "Proj",
+     "n": 1
+    },
+    {
+     "text": "range",
+     "n": 2
+    },
+    {
+     "text": "max",
+     "n": 2
+    },
+    {
+     "text": "min",
+     "n": 2
+    },
+    {
+     "text": "cos",
+     "n": 1
+    },
+    {
+     "text": "sin",
+     "n": 1
+    },
+    {
+     "text": "null",
+     "n": 1
+    },
+    {
+     "text": "row",
+     "n": 1
+    },
+    {
+     "text": "tr",
+     "n": 1
+    },
+    {
+     "text": "ker",
+     "n": 1
+    },
+    {
+     "text": "iff",
+     "n": 1
+    },
+    {
+     "text": "wrt",
+     "n": 1
+    },
+    {
+     "text": "s.t.",
+     "n": 1
+    },
+    {
+     "text": "i.e.",
+     "n": 1
+    },
+    {
+     "text": "e.g.",
+     "n": 1
+    },
+    {
+     "text": "SVD",
+     "n": 1
+    },
+    {
+     "text": "PSD",
+     "n": 1
+    },
+    {
+     "text": "PD",
+     "n": 1
+    },
+    {
+     "text": "PCA",
+     "n": 1
+    },
+    {
+     "text": "QR",
+     "n": 1
+    },
+    {
+     "text": "LU",
+     "n": 1
+    },
+    {
+     "text": "Definition",
+     "n": 1
+    },
+    {
+     "text": "Example",
+     "n": 1
+    },
+    {
+     "text": "Theorem",
+     "n": 1
+    },
+    {
+     "text": "Proof",
+     "n": 1
+    },
+    {
+     "text": "Input",
+     "n": 1
+    },
+    {
+     "text": "Output",
+     "n": 1
+    },
+    {
+     "text": "otherwise",
+     "n": 1
+    }
+   ]
+  }
+ ]
+}

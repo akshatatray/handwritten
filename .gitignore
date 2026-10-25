@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Personal data: never commit handwriting, profiles or anything rendered from them.
+# (Profiles live in ~/.handwritten/ by default, outside this repo; these patterns are a safety net
+# in case the skill is run from inside the repo or HANDWRITTEN_HOME points here.)
+profiles/
+handwritten_out/
+handwritten_templates/
+samples/
+*.heic
+*.HEIC
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.PNG
+*.pdf
+*.tif
+*.tiff
+*.webp
